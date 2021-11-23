@@ -1,7 +1,7 @@
-- 👋 G'day there, I’m @undisputedcoder
-- 🏫 I'm currently still a student at Murdoch University
+- 👋 G'day there, I’m just another developer
+- 🎓 I'm a Computer Science graduate from Murdoch University
 - ⏳ I’m interested in machine learning
-- 📌 I'm open to the oppportunity to work 
+- 📌 I'm looking for an oppportunity to work 
 - ⚽ I'm also a big fan of football
 
 <!---
