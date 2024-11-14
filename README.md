@@ -5,6 +5,6 @@
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undisputedcoder&layout=compact&exclude_repo=undisputedcoder.github.io,Speedy-Cycles&hide=jupyter%20notebook,purebasic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undisputedcoder&layout=compact&exclude_repo=undisputedcoder.github.io,Speedy-Cycles,riaz&hide=jupyter%20notebook,purebasic)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Riaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=undisputedcoder&show_icons=true&hide=stars,issues&count_private=true)
